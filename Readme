@@ -2,3 +2,7 @@
 
 2.В качестве локального сервер -- MAMP & MAMP PRO 
 
+$host = 'localhost'; // адрес сервера 
+$database = 'shop'; // имя базы данных
+$user = 'root'; // имя пользователя
+$password = 'root'; // пароль
